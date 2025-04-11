@@ -29,6 +29,3 @@
 
 [Instagram]: https://www.instagram.com/brantcass7/
 [linkedin]: https://www.linkedin.com/in/brantcass/
-
-Here are some ideas to get you started:
-
