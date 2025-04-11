@@ -4,9 +4,10 @@
 
 - <b>Autonomous Driving Simulation (Rust, Bevy, Python, PyTorch)</b>
   - [Simulation to test autonmous vehicles with the use of AI](https://github.com/johnklucinec/bevy_sim)
-    - <b>Screen shot of the running program <b/>
-      <img src="https://imgur.com/a/vnWqX11.png" height = "%50" width = "%50"/>
+    - <p><strong>Screenshot of the running program</strong></p>
+      <img  src="https://i.imgur.com/ryCLAmu.png" width="450" length = "450" />
       <br/>
+      
 - <b>Full Stack Web App (React, NodeJS, SQL, HTML )</b>
   - [change](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Operating Systems</b>
