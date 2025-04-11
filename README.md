@@ -5,7 +5,7 @@
 - <b>Autonomous Driving Simulation (Rust, Bevy, Python, PyTorch)</b>
   - [Simulation to test autonmous vehicles with the use of AI](https://github.com/johnklucinec/bevy_sim)
 - <b>Full Stack Web App (React, NodeJS, SQL, HTML )</b>
-  - [change](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [change](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Operating Systems</b>
   - [My work in JOS kernel](https://github.com/brantcass/Operating-systems1])
   - [Change](https://github.com/joshmadakor1/AD_PS)
