@@ -14,18 +14,14 @@
      - <p>This project was done to comunicate with my partners website by sending information by requests.</p>
 - <b>Operating Systems</b>
   - [My work in JOS kernel](https://github.com/brantcass/Operating-systems1])
-  - [Change](https://github.com/joshmadakor1/AD_PS)
+  
 - <b>Data Structures and Algorithms (Python)</b>
-  - [Change](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Change](https://github.com/joshmadakor1/AD_PS)
+
 - <b>Python</b>
-  - [Change](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Bowling Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+      - <p>This project is bowling game in the CMD where it will keep up with your score.</p>
 
 <h2>📺 In progress</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 
 <h2> 🤳 Connect with me:</h2>
