@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brant <br/><a href="https://github.com/brantcass">Programmer(change)</a></h1>
+<h1>Hi, I'm Brant <br/><a href="https://github.com/brantcass"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
