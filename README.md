@@ -18,7 +18,7 @@
 - <b>Data Structures and Algorithms (Python)</b>
 
 - <b>Python</b>
-  - [Bowling Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Bowling Game](https://github.com/brantcass/Bowling-Project)
       - <p>This project is bowling game in the CMD where it will keep up with your score.</p>
 
 <h2>📺 In progress</h2>
