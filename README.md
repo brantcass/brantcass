@@ -10,7 +10,8 @@
       
 - <b>Full Stack Web App (React, NodeJS, SQL, HTML )</b>
   - [Microservice Assignment](https://github.com/brantcass/Microservice-Software-engi)
-  - [Fly Fishing Guide Website](https://github.com/brantcass/Software-engi-project-Brant-Cass-)<p>This project was done to comunicate with my partners website by sending information by requests.
+  - [Fly Fishing Guide Website](https://github.com/brantcass/Software-engi-project-Brant-Cass-)
+     - <p>This project was done to comunicate with my partners website by sending information by requests.</p>
 - <b>Operating Systems</b>
   - [My work in JOS kernel](https://github.com/brantcass/Operating-systems1])
   - [Change](https://github.com/joshmadakor1/AD_PS)
