@@ -9,7 +9,8 @@
       <br/>
       
 - <b>Full Stack Web App (React, NodeJS, SQL, HTML )</b>
-  - [change](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Microservice Assignment](https://github.com/brantcass/Microservice-Software-engi) <b><i></b></i>
+   - [Fly Fishing Guide Website](https://github.com/brantcass/Software-engi-project-Brant-Cass-) <b><i></b></i>
 - <b>Operating Systems</b>
   - [My work in JOS kernel](https://github.com/brantcass/Operating-systems1])
   - [Change](https://github.com/joshmadakor1/AD_PS)
