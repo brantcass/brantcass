@@ -34,7 +34,7 @@
 
 ---
 
-## 📺 In progress
+## In progress
 
 - Autonomous Driving Simulation
 - AI-powered Smart Mirror
