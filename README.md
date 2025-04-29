@@ -1,17 +1,17 @@
-# Hi, I’m Brant! 👋  
+# Hi, I’m Brant!  
 [View my GitHub profile](https://github.com/brantcass)
 
-## 🛠️ Skills
+## Skills
 
-- **Programming Languages:** Python, Java, JavaScript, Rust, C++
+- **Programming Languages:** Python, C++, JavaScript, Rust, Java, SQL
 - **Web Development:** HTML, CSS, React, Node.js, SQL
 - **Cloud Platforms:** AWS, Google Cloud Platform, Azure
-- **Game Development:** Bevy (Rust), Unity
+- **Game Development:** Bevy (Rust), Unity, OpenGL
 - **AI / Machine Learning:** PyTorch, TensorFlow, OpenCV
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Autonomous Driving Simulation  
 **Rust · Bevy · Python · PyTorch**  
@@ -37,7 +37,7 @@
 
 ## 📺 In progress
 
-- Autonomous Driving Simulation (capstone)
+- Autonomous Driving Simulation
 - AI-powered Smart Mirror
 
 ---
