@@ -9,7 +9,6 @@
 - **Game Development:** Bevy (Rust), Unity, OpenGL
 - **AI / Machine Learning:** PyTorch, TensorFlow, OpenCV
 
----
 
 ## Projects
 
@@ -22,16 +21,16 @@
 **React · Node.js · SQL · HTML**  
 - 🔗 [Microservice Assignment](https://github.com/brantcass/Microservice-Software-engi)  
 - 🔗 [Fly Fishing Guide Website](https://github.com/brantcass/Software-engi-project-Brant-Cass-)  
-  _Communicates with partner site via HTTP requests._
+  - _Communicates with partner site via HTTP requests._
 
 ### Operating Systems (JOS Kernel)  
-**C**  
-🔗 [My work in JOS kernel](https://github.com/brantcass/Operating-systems1)
+ 
+ - 🔗 [My work in JOS kernel using C](https://github.com/brantcass/Operating-systems1)
 
 ### Data Structures & Algorithms  
 **Python**  
 - 🔗 [Bowling Game](https://github.com/brantcass/Bowling-Project)  
-  _CLI game that tracks bowling scores in real time._
+  - _CLI game that tracks bowling scores in real time._
 
 ---
 
@@ -42,10 +41,10 @@
 
 ---
 
-## 🤳 Connect with me
+## Connect with me
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/brantcass/)  
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" />](https://www.instagram.com/brantcass7/)
 
 [linkedin]: https://www.linkedin.com/in/brantcass/  
 [instagram]: https://www.instagram.com/brantcass7/
