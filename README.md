@@ -1,6 +1,6 @@
-<h1>Hi, I'm Brant <br/><a href="https://github.com/brantcass"></a></h1>
+<h1>Hi, I'm Brant! <br/><a href="https://github.com/brantcass"></a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Projects and Skills Projects:</h2>
 
 - <b>Autonomous Driving Simulation (Rust, Bevy, Python, PyTorch)</b>
   - [Simulation to test autonmous vehicles with the use of AI](https://github.com/johnklucinec/bevy_sim)
