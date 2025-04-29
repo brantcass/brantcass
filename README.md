@@ -1,33 +1,51 @@
-<h1>Hi, I'm Brant! <br/><a href="https://github.com/brantcass"></a></h1>
+# Hi, I’m Brant! 👋  
+[View my GitHub profile](https://github.com/brantcass)
 
-<h2>Skills and Projects:</h2>
+## 🛠️ Skills
 
-- <b>Autonomous Driving Simulation (Rust, Bevy, Python, PyTorch)</b>
-  - [Simulation to test autonmous vehicles with the use of AI](https://github.com/johnklucinec/bevy_sim)
-    - <p><strong>Screenshot of the running program</strong></p>
-      <img  src="https://i.imgur.com/ryCLAmu.png" width="450" length = "450" />
-      <br/>
-      
-- <b>Full Stack Web App (React, NodeJS, SQL, HTML )</b>
-  - [Microservice Assignment](https://github.com/brantcass/Microservice-Software-engi)
-  - [Fly Fishing Guide Website](https://github.com/brantcass/Software-engi-project-Brant-Cass-)
-     - <p>This project was done to comunicate with my partners website by sending information by requests.</p>
-- <b>Operating Systems</b>
-  - [My work in JOS kernel](https://github.com/brantcass/Operating-systems1])
-  
-- <b>Data Structures and Algorithms (Python)</b>
+- **Programming Languages:** Python, Java, JavaScript, Rust, C++
+- **Web Development:** HTML, CSS, React, Node.js, SQL
+- **Cloud Platforms:** AWS, Google Cloud Platform, Azure
+- **Game Development:** Bevy (Rust), Unity
+- **AI / Machine Learning:** PyTorch, TensorFlow, OpenCV
 
-- <b>Python</b>
-  - [Bowling Game](https://github.com/brantcass/Bowling-Project)
-      - <p>This project is bowling game in the CMD where it will keep up with your score.</p>
+---
 
-<h2>📺 In progress</h2>
+## 🚀 Projects
 
+### Autonomous Driving Simulation  
+**Rust · Bevy · Python · PyTorch**  
+🔗 [Repository](https://github.com/johnklucinec/bevy_sim)  
+<img src="https://i.imgur.com/ryCLAmu.png" alt="Simulation screenshot" width="450" />
 
-<h2> 🤳 Connect with me:</h2>
+### Full Stack Web App  
+**React · Node.js · SQL · HTML**  
+- 🔗 [Microservice Assignment](https://github.com/brantcass/Microservice-Software-engi)  
+- 🔗 [Fly Fishing Guide Website](https://github.com/brantcass/Software-engi-project-Brant-Cass-)  
+  _Communicates with partner site via HTTP requests._
 
-[<img align="left" alt="BrantCass | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BrantCass | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Operating Systems (JOS Kernel)  
+**C**  
+🔗 [My work in JOS kernel](https://github.com/brantcass/Operating-systems1)
 
-[Instagram]: https://www.instagram.com/brantcass7/
-[linkedin]: https://www.linkedin.com/in/brantcass/
+### Data Structures & Algorithms  
+**Python**  
+- 🔗 [Bowling Game](https://github.com/brantcass/Bowling-Project)  
+  _CLI game that tracks bowling scores in real time._
+
+---
+
+## 📺 In progress
+
+- Autonomous Driving Simulation (capstone)
+- AI-powered Smart Mirror
+
+---
+
+## 🤳 Connect with me
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+
+[linkedin]: https://www.linkedin.com/in/brantcass/  
+[instagram]: https://www.instagram.com/brantcass7/
