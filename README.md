@@ -31,6 +31,7 @@
 **Python**  
 - 🔗 [Bowling Game](https://github.com/brantcass/Bowling-Project)  
   - _CLI game that tracks bowling scores in real time._
+- 🔗 [Small Algorithms](https://github.com/brantcass/Algorithms/tree/main/Algorithims) 
 
 ---
 
