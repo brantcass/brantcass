@@ -8,7 +8,7 @@
 - **Cloud Platforms:** AWS, Google Cloud Platform, Azure
 - **Game Development:** Bevy (Rust), Unity, OpenGL
 - **AI / Machine Learning:** PyTorch, TensorFlow, OpenCV
-- **Misc** GDB, CMD, GL, White and Black Box testing
+- **Misc:** GDB, CMD, GL, White and Black Box testing
 
 
 ## Projects
