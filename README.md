@@ -31,12 +31,12 @@
 **Python**  
 - 🔗 [Bowling Game](https://github.com/brantcass/Bowling-Project)  
   - _CLI game that tracks bowling scores in real time._
+- 🔗 [Password Testing](https://github.com/brantcass/Password_Testing/tree/main/Assingment4)
 - 🔗 [Small Algorithms](https://github.com/brantcass/Algorithms/tree/main/Algorithims) 
 
 ---
 
-## In progress
-
+## Projects In progress
 - Autonomous Driving Simulation
 - AI-powered Smart Mirror
 
