@@ -39,8 +39,8 @@
 ---
 
 ## Projects In progress
-- Autonomous Driving Simulation
-- AI-powered Smart Mirror
+- AWS Cloud Practitioner
+- real-time object detection app
 
 ---
 
