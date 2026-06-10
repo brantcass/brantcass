@@ -28,24 +28,28 @@ A simulation testbed for testing autonomous-vehicle perception and control in co
 
 ### Full Stack Web App
 
-**React · Node.js · SQL · HTML**
+**Node.js · Express · JavaScript · HTML**
 
-- 🔗 [Microservice Assignment](https://github.com/brantcass/Microservice-Software-engi)
+- 🔗 [Timer Microservice](https://github.com/brantcass/Microservice-Software-engi)
+  - _Node.js timer service controlled with start / stop / pause / resume commands, communicating with a client over requests._
 - 🔗 [Fly Fishing Guide Website](https://github.com/brantcass/Software-engi-project-Brant-Cass-)
-  - _Communicates with partner site via HTTP requests._
+  - _Express site that pulls fishing regulations from a companion microservice over HTTP._
 
-### Operating Systems (JOS Kernel)
+### Systems Programming (C)
 
-- 🔗 [My work in JOS kernel using C](https://github.com/brantcass/Operating-systems1)
+- 🔗 [Custom Shell & Tree Utility](https://github.com/brantcass/Operating-systems1)
+  - _A small Unix shell (`smallsh`) and a `tree` directory-listing tool, written in C using POSIX system calls — process control, file I/O, and directory traversal._
 
 ### Data Structures & Algorithms
 
 **Python**
 
+- 🔗 [Algorithm Problems](https://github.com/brantcass/Algorithms/tree/main/Algorithims)
+  - _Classic problems in Python — backtracking, graph algorithms (MST, TSP), subset generation, and more._
+- 🔗 [Password Validation (TDD)](https://github.com/brantcass/Password_Testing/tree/main/Assingment4)
+  - _Test-driven development exercise: black-box unit tests for a password-validation function._
 - 🔗 [Bowling Game](https://github.com/brantcass/Bowling-Project)
-  - _CLI game that tracks bowling scores in real time._
-- 🔗 [Password Testing](https://github.com/brantcass/Password_Testing/tree/main/Assingment4)
-- 🔗 [Small Algorithms](https://github.com/brantcass/Algorithms/tree/main/Algorithims)
+  - _Generates a randomly simulated bowling game and prints the final scorecard._
 
 ---
 
