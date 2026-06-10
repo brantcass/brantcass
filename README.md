@@ -58,14 +58,4 @@ A simulation testbed for testing autonomous-vehicle perception and control in co
 
 ## Connect with me
 
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/brantcass/) &nbsp;&nbsp; [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" />](https://www.instagram.com/brantcass7/)
-
----
-
-## Connect with me
-
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/brantcass/)  
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" />](https://www.instagram.com/brantcass7/)
-
-[linkedin]: https://www.linkedin.com/in/brantcass/  
-[instagram]: https://www.instagram.com/brantcass7/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brantcass/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantcass7/)
