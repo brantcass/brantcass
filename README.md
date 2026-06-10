@@ -13,11 +13,16 @@ I’m a computer science graduate (2025) based in Austin, TX, focused on compute
 
 
 
-## Projects
+### Projects
 
 Autonomous Driving Simulation
-Rust · Bevy · Python · PyTorch
+
+**Rust · Bevy · Python · PyTorch**
+
 A simulation testbed for testing autonomous-vehicle perception and control in controlled scenarios.
+
+My contribution: procedural world generation (roads, lane markings, obstacles, cones), co-owned the PID steering controller, and control-loop integration in main.py (cone avoidance). 
+
 🔗 [Repository](https://github.com/brantcass/bevy_sim)  
 <img src="https://i.imgur.com/ryCLAmu.png" alt="Simulation screenshot" width="450" />
 
