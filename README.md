@@ -16,7 +16,7 @@
 
 ### Autonomous Driving Simulation  
 **Rust · Bevy · Python · PyTorch**  
-🔗 [Repository](https://github.com/johnklucinec/bevy_sim)  
+🔗 [Repository](https://github.com/brantcass/bevy_sim)  
 <img src="https://i.imgur.com/ryCLAmu.png" alt="Simulation screenshot" width="450" />
 
 ### Full Stack Web App  
