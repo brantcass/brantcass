@@ -3,12 +3,13 @@
 
 ## Skills
 
-- **Programming Languages:** Python, C++, JavaScript, Rust, Java, SQL
-- **Web Development:** HTML, CSS, React, Node.js, SQL
-- **Cloud Platforms:** AWS, Google Cloud Platform, Azure
-- **Game Development:** Bevy (Rust), Unity, OpenGL
+- **Programming Languages:** Python, C++, JavaScript, Rust, SQL
 - **AI / Machine Learning:** PyTorch, TensorFlow, OpenCV
-- **Misc:** GDB, CMD, GL, White and Black Box testing
+- **Web Development:** HTML, CSS, React, Node.js, SQL
+- **Cloud Platforms:** AWS, Google Cloud Platform
+- **Game Development:** Bevy (Rust), Unity, OpenGL
+
+
 
 
 ## Projects
