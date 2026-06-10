@@ -1,4 +1,5 @@
-# Hi, I’m Brant!  
+# Hi, I’m Brant!
+I’m a computer science graduate (2025) based in Austin, TX, focused on computer vision, machine learning, and autonomy/robotics. I like building software that touches the physical world — simulation, perception, and control. Outside of code, I’m usually outdoors fishing, hiking, or camping.
 [View my GitHub profile](https://github.com/brantcass)
 
 ## Skills
@@ -14,8 +15,9 @@
 
 ## Projects
 
-### Autonomous Driving Simulation  
-**Rust · Bevy · Python · PyTorch**  
+Autonomous Driving Simulation
+Rust · Bevy · Python · PyTorch
+A simulation testbed for testing autonomous-vehicle perception and control in controlled scenarios.
 🔗 [Repository](https://github.com/brantcass/bevy_sim)  
 <img src="https://i.imgur.com/ryCLAmu.png" alt="Simulation screenshot" width="450" />
 
