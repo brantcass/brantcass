@@ -6,11 +6,12 @@ I’m a computer science graduate (2025) based in Austin, TX, focused on compute
 
 ## Skills
 
-- **Programming Languages:** Python, C++, JavaScript, Rust, SQL
-- **AI / Machine Learning:** PyTorch, TensorFlow, OpenCV
-- **Web Development:** HTML, CSS, React, Node.js, SQL
-- **Cloud Platforms:** AWS, Google Cloud Platform
-- **Game Development:** Bevy (Rust), Unity, OpenGL
+- **Programming Languages:** Python, JavaScript, C, HTML/CSS, SQL (MySQL), Rust
+- **AI / Machine Learning:** PyTorch, OpenCV, YOLOv8
+- **Frameworks/Tools:** React, Node.js,FastAPI, Docker, Gi
+- **Platforms:** AWS, GCP
+- **Game Development:** Bevy, Unity, OpenGL
+- **Development Practices:** Scrum, Agile
 
 ## Projects
 
