@@ -17,7 +17,7 @@ I'm a computer science graduate (2025) based in Austin, TX. I build full-stack a
 
 ### Cadence — AI Training Coach 
 
-**Python · FastAPI · React · Claude API
+**Python · FastAPI · React · Claude API**
 
 An AI training coach that adapts a running plan to real Garmin data. Uses an LLM agent loop with tool use and an evaluation harness, with deterministic progressive-overload math in code and the model handling fuzzier scheduling and recovery decisions.
 
