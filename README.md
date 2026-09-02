@@ -8,12 +8,20 @@ I’m a computer science graduate (2025) based in Austin, TX, focused on compute
 
 - **Programming Languages:** Python, JavaScript, C, HTML/CSS, SQL (MySQL), Rust
 - **AI / Machine Learning:** PyTorch, OpenCV, YOLOv8
-- **Frameworks/Tools:** React, Node.js,FastAPI, Docker, Gi
+- **Frameworks/Tools:** React, Node.js, FastAPI, Docker, Git
 - **Platforms:** AWS, GCP
 - **Game Development:** Bevy, Unity, OpenGL
 - **Development Practices:** Scrum, Agile
 
 ## Projects
+
+### Cadence — AI Training Coach 
+
+**Python · FastAPI · React · Claude API
+
+An AI training coach that adapts a running plan to real Garmin data. Uses an LLM agent loop with tool use and an evaluation harness, with deterministic progressive-overload math in code and the model handling fuzzier scheduling and recovery decisions.
+
+🔗 [Repository](https://github.com/brantcass/cadence)
 
 ### Autonomous Driving Simulation
 
