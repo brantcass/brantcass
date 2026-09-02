@@ -1,6 +1,6 @@
 # Hi, I’m Brant!
 
-I’m a computer science graduate (2025) based in Austin, TX, focused on computer vision, machine learning, and autonomy/robotics. I like building software that touches the physical world — simulation, perception, and control. Outside of code, I’m usually outdoors fishing, hiking, or camping.
+I'm a computer science graduate (2025) based in Austin, TX. I build full-stack and backend software, and I like problems that connect messy systems into something that works, whether that's integrating a bunch of APIs into one tool or wiring perception into a control loop. I'm especially drawn to computer vision and autonomy, and I'm growing toward that kind of work. Outside of code, I’m usually outdoors fishing, hiking, or camping.
 
 [View my GitHub profile](https://github.com/brantcass)
 
@@ -59,13 +59,6 @@ A simulation testbed for testing autonomous-vehicle perception and control in co
   - _Test-driven development exercise: black-box unit tests for a password-validation function._
 - 🔗 [Bowling Game](https://github.com/brantcass/Bowling-Project)
   - _Generates a randomly simulated bowling game and prints the final scorecard._
-
----
-
-## Projects In Progress
-
-- AWS Cloud Practitioner
-- Real-time object detection app
 
 ---
 
